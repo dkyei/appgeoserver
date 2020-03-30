@@ -1,0 +1,15 @@
+<layer>
+  <name>ne_110m_admin_0_countries</name>
+  <id>LayerInfoImpl--12d0854a:1711e6a7e94:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--12d0854a:1711e6a7e94:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
